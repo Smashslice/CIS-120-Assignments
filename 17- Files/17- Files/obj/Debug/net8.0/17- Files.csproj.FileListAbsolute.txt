@@ -1,0 +1,15 @@
+E:\College\Spring 24\CIS 120\17- Files\17- Files\bin\Debug\net8.0\gameList.csv
+E:\College\Spring 24\CIS 120\17- Files\17- Files\bin\Debug\net8.0\17- Files.exe
+E:\College\Spring 24\CIS 120\17- Files\17- Files\bin\Debug\net8.0\17- Files.deps.json
+E:\College\Spring 24\CIS 120\17- Files\17- Files\bin\Debug\net8.0\17- Files.runtimeconfig.json
+E:\College\Spring 24\CIS 120\17- Files\17- Files\bin\Debug\net8.0\17- Files.dll
+E:\College\Spring 24\CIS 120\17- Files\17- Files\bin\Debug\net8.0\17- Files.pdb
+E:\College\Spring 24\CIS 120\17- Files\17- Files\obj\Debug\net8.0\17- Files.GeneratedMSBuildEditorConfig.editorconfig
+E:\College\Spring 24\CIS 120\17- Files\17- Files\obj\Debug\net8.0\17- Files.AssemblyInfoInputs.cache
+E:\College\Spring 24\CIS 120\17- Files\17- Files\obj\Debug\net8.0\17- Files.AssemblyInfo.cs
+E:\College\Spring 24\CIS 120\17- Files\17- Files\obj\Debug\net8.0\17- Files.csproj.CoreCompileInputs.cache
+E:\College\Spring 24\CIS 120\17- Files\17- Files\obj\Debug\net8.0\17- Files.dll
+E:\College\Spring 24\CIS 120\17- Files\17- Files\obj\Debug\net8.0\refint\17- Files.dll
+E:\College\Spring 24\CIS 120\17- Files\17- Files\obj\Debug\net8.0\17- Files.pdb
+E:\College\Spring 24\CIS 120\17- Files\17- Files\obj\Debug\net8.0\17- Files.genruntimeconfig.cache
+E:\College\Spring 24\CIS 120\17- Files\17- Files\obj\Debug\net8.0\ref\17- Files.dll
